@@ -1,6 +1,6 @@
 # Geo-Analytical Assessment of Urban Livability Metrics
 
-Download my PowerMap - Final 3D tour- 8890111 compressed.mp4
+Download my PowerMap - https://github.com/bhavsarparth03/Urban-Livability-Geo-Analytics-Canada/blob/main/Final%203D%20tour-%208890111%20compressed.mp4
 
 ## Project Overview
 
@@ -26,7 +26,7 @@ This project is a comprehensive analysis of socio-economic factors across 8 majo
 
 1. **SQL Query**: The SQL code used to extract and analyze data from the database.
 2. **PowerMap Visualization**: An Excel file containing the PowerMap visualization of livability metrics.
-3. **Video Tour**: A video presentation of the project’s findings.
+3. **Video Tour**: A video presentation of the project’s findings. - https://github.com/bhavsarparth03/Urban-Livability-Geo-Analytics-Canada/blob/main/Final%203D%20tour-%208890111%20compressed.mp4
 4. **Final Report**: A detailed PDF report summarizing the analysis, methodology, and conclusions.
 
 ## How to Run
