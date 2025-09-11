@@ -1,5 +1,7 @@
 # Geo-Analytical Assessment of Urban Livability Metrics
 
+Download my PowerMap - Final 3D tour- 8890111 compressed.mp4
+
 ## Project Overview
 
 This project is a comprehensive analysis of socio-economic factors across 8 major cities in Canada, designed to assess livability based on criteria such as income, cost of living, crime rates, and healthcare access. The project leverages SQL for data extraction and transformation, and Excel PowerMap for geo-spatial visualization.
